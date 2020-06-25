@@ -25,5 +25,6 @@ The map will be stored in
 rtabmap-databaseViewer <Path_To_rtabmap.db>
 ```
 
-Here is a snapshot from rtabmap-databaseViewer
+Here is a snapshot from rtabmap-databaseViewer and 3D image
 <img src="my_red_robot_mapping.png"/>
+<img src="my_red_robot_mapping_3D.png"/>
