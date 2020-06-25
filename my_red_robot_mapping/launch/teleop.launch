@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <launch>
 
-  
-  <!-- Send robot states to tf -->
+  <!-- Run teleop_twist_keyboard to control robot from keyboard -->
   <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" respawn="false" output="screen"/>
 
 </launch>
